@@ -1,3 +1,9 @@
-# rg-soccer-ai
-RG HOLDINGS Soccer Predictions AI — reproducible backend and branded frontend for investor-grade deployment.
-Finalize README.md with RG HOLDINGS deployment and compliance instructions
+# RG HOLDINGS Soccer Predictions AI
+
+**Reproducible backend and branded frontend for investor-grade deployment.**
+
+This project delivers AI-powered soccer predictions with full audit logging, modular backend logic, and a professionally styled frontend. Built for operational resilience and investor transparency.
+
+---
+
+## 📦 Project Structure
